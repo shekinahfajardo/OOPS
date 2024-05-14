@@ -1,0 +1,27 @@
+public class bestBuy {
+public string firstName { get; set; }
+public string lastName { get; set }
+public bigint referenceId { get; set } 
+public bigint creditCardNumber { get; set; }
+public decimal purchaseTotal { get; set; }
+public date pickUp { get; set; }
+}
+
+public class bestBuyFinance 
+public bigint referenceId { get[: set: }
+public bigint creditCardNumber { get; set; }
+public string addedBy { get; set: } 
+public datetime addedon { get; set: } 
+public string updatedBy { get; set; }
+public datetime updatedOn { get; set; }
+}
+
+
+
+
+
+
+
+
+
+
